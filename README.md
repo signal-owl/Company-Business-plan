@@ -52,5 +52,6 @@ Signal Owl target audience is diverse, including:
   - Subscription Plans: Tiered plans based on the number of devices (e.g., Light up to 50 devices, Standard up to 200, Plus up to 1000) with a monthly fee (e.g., €150 for Light).
   - Large-scale Plans: A custom-priced plan for large-scale deployments with 1000+ devices.
   - Hardware Revenue: A secondary revenue stream from the sale of Signal Owl-online sales of recommended devices which is designed to reduce the customer's initial setup friction and increase platform stickiness. (Goal: 10% of total revenue in Year 1).
+
   The pricing structure is designed to scale with the customer's needs, ensuring a sustainable revenue model as businesses grow their IoT deployments. The combination of hardware sales and recurring platform subscriptions creates a robust financial foundation.
 
